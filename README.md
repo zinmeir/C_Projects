@@ -1,2 +1,2 @@
-# C_Projects
+# C
 My Beginner-level projects in C language.
